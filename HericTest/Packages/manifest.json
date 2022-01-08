@@ -42,5 +42,9 @@
     "com.unity.modules.vr": "1.0.0",
     "com.unity.modules.wind": "1.0.0",
     "com.unity.modules.xr": "1.0.0"
+    "com.unity.demoteam.digital-human.sample": "https://github.com/Unity-Technologies/com.unity.demoteam.digital-human.sample.git",
+    "com.unity.demoteam.digital-human": "https://github.com/Unity-Technologies/com.unity.demoteam.digital-human.git",
+    "com.unity.demoteam.attributes": "https://github.com/Unity-Technologies/com.unity.demoteam.attributes.git"
+    
   }
 }
